@@ -20,5 +20,7 @@ An AI-powered web app that lets you upload multiple PDF documents and interact w
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pdf-chat-app.git
+git clone https://github.com/EmanRam/pdf-chat-app.git
 cd pdf-chat-app
+
+
